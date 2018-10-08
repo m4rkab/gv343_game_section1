@@ -12,6 +12,8 @@
 #include "Person.hpp"
 #include "Monster.hpp"
 #include "Settings.hpp"
+#include "Weapons.hpp"
+#include "Chainsaw.hpp"
 #include <iostream>
 #include <random>
 #include "SFML/Audio.hpp"
